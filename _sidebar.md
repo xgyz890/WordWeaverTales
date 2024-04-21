@@ -6,3 +6,4 @@
     * [The Straw Lady](art004.md)
     * [A Complaint Letter to SF Express](art005.md)
     * [No More Loneliness: A Review of True Detective](art006.md)
+    * [The Boat Ride in West Lake](art007.md)
